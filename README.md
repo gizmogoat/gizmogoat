@@ -28,3 +28,5 @@ As for the game itself, it's still largely over-bloated and filled with unnecces
 All in all, modding might be a bit better for the time being, but I would still be cautious in the future considering how Another Axiom has treated us in the past. Another Axiom will always be in it for the money because that's just how things are in our capitalistic world.
 
 For the record, AA's stance shift will not bring me back to modding. They have demonstrated time and time again that they did not care about my hobby, so I still don't trust them, and I advise you not to immediately trust them because of this either. Corporations are generally not your friend, and Another Axiom is no exception.
+
+If you wish to maintain any of my projects, you are more than welcome to do so under the terms of the license files in the associated repository. I believe that free and public access to information (code included) is a human right, my code included.
