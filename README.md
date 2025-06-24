@@ -29,4 +29,4 @@ All in all, modding might be a bit better for the time being, but I would still 
 
 For the record, AA's stance shift will not bring me back to modding. They have demonstrated time and time again that they did not care about my hobby, so I still don't trust them, and I advise you not to immediately trust them because of this either. Corporations are generally not your friend, and Another Axiom is no exception.
 
-If you wish to maintain any of my projects, you are more than welcome to do so under the terms of the license files in the associated repository. I believe that free and public access to information (code included) is a human right, my code included.
+If you wish to maintain any of my projects, you are more than welcome to do so under the terms of the license files in the associated repository. I believe that free and public access to information is a human right, my code included.
