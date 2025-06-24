@@ -25,7 +25,7 @@ You may begin to realize that you can get a lot more fun out of that money spent
 
 As for the game itself, it's still largely over-bloated and filled with unneccesary and shallow content. It's hard to say if the game itself will change, because its only been a few days in the time I wrote my original update and Another Axiom adjusted their stance, but I'm not counting on it. I still firmly believe that this game was at its peak in 2021 as an indie game, and that it will never return to its simplistic origins where everything was focused and carefully tested, because doing that isn't the most profitable way they can do it.
 
-All in all, modding might be a bit better for the time being, but I would still be cautious in the future considering how Another Axiom has treated us in the past. Another Axiom will always be in it for the money because that's just how things are in our capitalistic world.
+All in all, modding might be a bit better for the time being, but I would still be cautious in the future considering how Another Axiom has treated us in the past. Another Axiom will always be in it for the money because that's just how things are in our capitalistic world. I still envision Another Axiom putting Easy AntiCheat on Gorilla Tag in the coming years.
 
 For the record, AA's stance shift will not bring me back to modding. They have demonstrated time and time again that they did not care about my hobby, so I still don't trust them, and I advise you not to immediately trust them because of this either. Corporations are generally not your friend, and Another Axiom is no exception.
 
