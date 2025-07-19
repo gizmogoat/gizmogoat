@@ -6,4 +6,6 @@ now, i'm finding other things to learn and play with instead.
 
 trans, pan, polyamo, neurodivergent
 
-langs: native ENG, learning TOK
+programming langs: 4 years C#, wanting to learn C++ and Rust
+
+speaking langs: native ENG, learning TOK
