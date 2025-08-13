@@ -1,3 +1,5 @@
+# this account only used for contributions -- all my stuff lives on codeberg now! https://codeberg.org/gizmogoat
+
 hi! im kaylie, or gizmogoat, or soweli Keli. 
 
 i used to mod gorilla tag, but i quit for [an extremely extensive amount of reasons](https://github.com/gizmogoat/gizmogoat/blob/main/GTMODS.md).
