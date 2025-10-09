@@ -10,4 +10,4 @@ trans, pan, polyamo, neurodivergent
 
 programming langs: 4 years C#, wanting to learn C++ and Rust
 
-speaking langs: native ENG, learning TOK
+speaking langs: native ENG, novice at TOK
