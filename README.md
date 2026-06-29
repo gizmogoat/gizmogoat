@@ -6,7 +6,7 @@ i used to mod gorilla tag, but i quit for [an extremely extensive amount of reas
 
 now, i'm finding other things to learn and play with instead.
 
-trans, pan, polyamo, neurodivergent
+trans, pan, neurodivergent
 
 programming langs: 4 years C#, wanting to learn C++ and Rust
 
