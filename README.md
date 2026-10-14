@@ -1,4 +1,4 @@
-# this account only used for contributions -- all my stuff lives on codeberg now! https://codeberg.org/gizmogoat
+# this account only used for contributions -- all my stuff lives on [codeberg](https://codeberg.org/gizmogoat) or [soweligit](https://git.soweli.uk/kaylie) now! 
 
 hi! im kaylie, or gizmogoat, or soweli Keli. 
 
